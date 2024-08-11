@@ -1,8 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "warpbook:items/warpbookcover",
-        "layer1": "warpbook:items/warpbookpages",
-        "layer2": "warpbook:items/warpbookpearl"
-    }
-}

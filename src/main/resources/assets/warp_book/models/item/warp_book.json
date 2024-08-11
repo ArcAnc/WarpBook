@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "warp_book:item/warp_book_cover",
+        "layer1": "warp_book:item/warp_book_pages",
+        "layer2": "warp_book:item/warp_book_pearl"
+    }
+}

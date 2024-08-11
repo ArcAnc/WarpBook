@@ -1,0 +1,31 @@
+{
+    "depart": {
+        "category": "player",
+        "subtitle": "warp_book.subtitle.depart",
+        "sounds": [
+            "warp_book:depart-01",
+            "warp_book:depart-02",
+            "warp_book:depart-03",
+            "warp_book:depart-04",
+            "warp_book:depart-05",
+            "warp_book:depart-06",
+            "warp_book:depart-07",
+            "warp_book:depart-08",
+            "warp_book:depart-09"
+        ]
+    },
+    "arrive": {
+        "category": "player",
+        "subtitle": "warp_book.subtitle.arrive",
+        "sounds": [
+            "warp_book:arrive-01",
+            "warp_book:arrive-02",
+            "warp_book:arrive-03",
+            "warp_book:arrive-04",
+            "warp_book:arrive-05",
+            "warp_book:arrive-06",
+            "warp_book:arrive-07",
+            "warp_book:arrive-08"
+        ]
+    }
+}

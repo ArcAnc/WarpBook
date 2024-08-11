@@ -1,0 +1,27 @@
+{
+  "warp_book.item.warp_book": "Warp Book",
+  "warp_book.item.warp_page_unbound": "Unbound Warp Page",
+  "warp_book.item.warp_page_location": "Bound Warp Page",
+  "warp_book.item.warp_page_player": "Player Warp Page",
+  "warp_book.item.warp_page_deathly": "Deathly Warp Page",
+
+  "warp_book.creative_tab.title": "Warp Book",
+
+  "warp_book.gui.text.do_warp": "Warp to Waypoint",
+  "warp_book.gui.text.bind_page": "Bind Page",
+  "warp_book.gui.text.name_waypoint": "Enter waypoint name",
+  "warp_book.gui.tooltip_warp_book": "%d/54 pages",
+  "warp_book.gui.text.warp_book.inventory.title": "Warp Book",
+  "warp_book.gui.text.bind_msg.tooltip": "Bound to (%.0f, %.0f, %.0f) in dimension %s",
+  "warp_book.gui.button.done.title": "Done",
+  "warp_book.gui.button.cancel.title": "Cancel",
+
+  "warp_book.message.error.no_pages": "There are no pages in this book.  Shift+right click to add bound pages",
+  "help.nowaypointsfound": "No waypoints found",
+  "help.noplayerspecified": "Must specify player name",
+  "help.waypointdoesnotexist": "Waypoint '%s' does not exist",
+  "help.waypointdelete": "Poof!",
+  "help.notawaypoint": "'%s' is not a waypoint",
+  "help.waypointcreated": "Waypoint created",
+  "help.selfaport": "Congratulations!  You just teleported to yourself"
+}
